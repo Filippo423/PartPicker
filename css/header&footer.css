@@ -1,0 +1,21 @@
+#section_header{
+    background-color: #002e3b;
+    
+}
+#welcome{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: xx-large;
+    color: darkgoldenrod;
+}
+.button{
+    margin-top: 40px;
+    border: none;
+    color: darkgoldenrod;
+    background-color: #002e3b;
+    font-size: large;
+    
+}
+.button:hover{
+    text-decoration: underline;
+}

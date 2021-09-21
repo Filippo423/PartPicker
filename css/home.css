@@ -1,10 +1,11 @@
 .list_par{
-    font-size: xx-large;
+    font-size: larger;
     font-weight: bolder;
 }
 .cont_par{
     font-size: large;
 }
+/*
 .components_btn{
     margin-top: 18px;
     margin-left: 10px;
@@ -13,8 +14,16 @@
     background-color: #00c8ff;
     font-size: large;
     border-radius: 20px;
+}*/
+.table_up_list{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
 }
-a{
-    color: darkred;
-    text-decoration: none;
+.table_down_list{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+.table_end_list{
+    border-right: 1px solid black;
 }
